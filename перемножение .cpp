@@ -15,7 +15,7 @@ int main(){
 	cout<<"n=";
 	cin>>n;
 	cout<<"m=";
-	cin>>m; // updated 2
+	cin>>m; // updated 3
 	
 	for (i = 0;i < n; i++)
 	for (j = 0;j < m; j++)
